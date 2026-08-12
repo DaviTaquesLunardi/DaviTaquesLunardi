@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Davi 👋
 
-<!--
-**DaviTaquesLunardi/DaviTaquesLunardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at PUCRS, currently building my programming skills through academic and personal projects.
 
-Here are some ideas to get you started:
+💻 Currently working with
+Java
+Object-Oriented Programming
+Software development fundamentals
+🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm using this GitHub to document projects developed during my studies and to track my progress as a software developer.
+
+📚 Currently learning
+Java
+HTML/CSS
+Data structures and programming logic
+Software engineering concepts
