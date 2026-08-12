@@ -6,8 +6,8 @@ Software Engineering student at PUCRS, currently building my programming skills 
 Java
 Object-Oriented Programming
 Software development fundamentals
-🚀 Projects
 
+🚀 Projects
 I'm using this GitHub to document projects developed during my studies and to track my progress as a software developer.
 
 📚 Currently learning
